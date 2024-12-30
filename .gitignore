@@ -1,0 +1,6 @@
+t5_weights/*
+venv/
+venv/*
+.python-version
+__pycache__/
+__pycache__/*
